@@ -1,4 +1,4 @@
-Welcome to My GitHub! 👋
+Welcome to My GitHub! 👋 \n
 Hello! I'm a passionate developer and aspiring aerospace engineer, combining my love for technology and problem-solving. I focus on creating efficient solutions through programming, robotics, and data analysis. Here’s a snapshot of what I do:
 
 💻 Programming
